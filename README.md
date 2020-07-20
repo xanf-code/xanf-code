@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on Android and Webapps Development
 - 🌱 I’m currently learning Golang, Deno, Nest.js and other ways to build servers
-- 💬 Ask me about Latest technology 💻
+- 💬 Don't ask me anything lol 💻
 - 🤔 I’m looking for help with [Usiru ⚡](https://github.com/xanf-code/usiru) A Bilangual AQI App
 - 📫 How to reach me: [Twitter - @iamlardBendtner](https://twitter.com/iamlardBendtner), [Linkedin - @Darshan Aswath](https://www.linkedin.com/in/darshanaswath/)
 
