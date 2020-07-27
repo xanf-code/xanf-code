@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on Android and Webapps Development
 - 🌱 I’m currently learning Golang, Deno, Nest.js and other ways to build servers
 - 💬 Don't ask me anything lol 💻
-- 🤔 I’m looking for help with [Usiru ⚡](https://github.com/xanf-code/usiru) A Bilangual AQI App
+- 🤔 I’m looking for help with Ktor ⚡
 - 📫 How to reach me: [Twitter - @iamlardBendtner](https://twitter.com/iamlardBendtner), [Linkedin - @Darshan Aswath](https://www.linkedin.com/in/darshanaswath/)
 
 <img src="https://github-readme-stats.vercel.app/api?username=xanf-code&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
