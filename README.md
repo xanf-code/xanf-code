@@ -1,4 +1,4 @@
-## Hola, I'm [Darshan Aswath!](https://darshanaswath.herokuapp.com/) 👋
+## Hey, I'm [Darshan Aswath!](https://darshanaswath.herokuapp.com/) 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xanf-code&label=Views&color=blue&style=plastic" alt="xanf-code" /> </p>
 
