@@ -17,7 +17,7 @@
 
 <img src="https://raw.githubusercontent.com/Sameerkash/Sameerkash/master/assets/flutter.png" alt="flutter" height="35" width="40"/> &nbsp;&nbsp;  <img src="https://raw.githubusercontent.com/Sameerkash/Sameerkash/master/assets/node.png" alt="node" height="35" width="40"/> &nbsp;&nbsp;    <img src="https://raw.githubusercontent.com/Sameerkash/Sameerkash/master/assets/js.png" alt="js" height="35" width="40"/> &nbsp;&nbsp;      <img src="https://raw.githubusercontent.com/Sameerkash/Sameerkash/master/assets/gql.png" alt="gql" height="35" width="40"/> &nbsp;&nbsp;   <img src="https://raw.githubusercontent.com/Sameerkash/Sameerkash/master/assets/mongo.jpg" alt="mongo" height="35" width="40"/> &nbsp;&nbsp;   <img src="https://raw.githubusercontent.com/Sameerkash/Sameerkash/master/assets/postgres.png" alt="postgres" height="35" width="40"/> &nbsp;&nbsp;   <img src="https://raw.githubusercontent.com/Sameerkash/Sameerkash/master/assets/deno.svg" alt="deno" height="35" width="40"/> &nbsp;&nbsp;     <img src="https://raw.githubusercontent.com/Sameerkash/Sameerkash/master/assets/nest.png" alt="nest" height="35" width="40"/> &nbsp;&nbsp;   <img src="https://raw.githubusercontent.com/Sameerkash/Sameerkash/master/assets/firebase.png" alt="nexus" height="35" width="40"/> &nbsp;&nbsp; 
 
-- 🔭 I’m currently working on Android and Webapps Development
+- 🔭 I’m currently working on [Android and API Development](https://github.com/xanf-code/Monthly-Goals)
 - 🌱 I’m currently learning Golang, Deno, Nest.js and other ways to build servers
 - 💬 Don't ask me anything lol 💻
 - 🤔 I’m looking for help with Ktor ⚡
