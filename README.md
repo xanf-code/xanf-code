@@ -22,7 +22,3 @@
 - 📫 How to reach me: [Twitter - @iamlardBendtner](https://twitter.com/iamlardBendtner), [Linkedin - @Darshan Aswath](https://www.linkedin.com/in/darshanaswath/)
 
 <img src="https://github-readme-stats.vercel.app/api?username=xanf-code&hide=contribs&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-
-<a href="https://github.com/xanf-code">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xanf-code&theme=dark&hide_langs_below=1" />
-</a>
