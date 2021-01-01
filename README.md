@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xanf-code&label=Views&color=blue&style=plastic" alt="xanf-code" /> </p>
 
 <a href="https://twitter.com/iamlardBendtner">
-  <img align="left" alt="Darshan Aswath's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Darshan Aswath's Twitter" width="22px" src="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c53e.png />
 </a>
 <a href="https://www.linkedin.com/in/darshanaswath/">
   <img align="left" alt="Darshan Aswath's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
