@@ -16,3 +16,6 @@
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=xanf-code&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xanf-code&layout=compact&theme=dark)](https://github.com/xanf-code)
+
+<!-- TEMP FOR A WEEK-->
+[![Darshan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&layout=compact&theme=dark)](https://github.com/xanf-code)
