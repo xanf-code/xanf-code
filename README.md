@@ -18,4 +18,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xanf-code&layout=compact&theme=dark)](https://github.com/xanf-code)
 
 <!--START_SECTION:waka-->
+```text
+Vue.js       3 hrs 19 mins   ████████████████▒░░░░░░░░   65.67 % 
+JavaScript   1 hr 33 mins    ███████▓░░░░░░░░░░░░░░░░░   30.92 % 
+HTML         8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+Markdown     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+```
 <!--END_SECTION:waka-->
