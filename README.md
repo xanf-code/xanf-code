@@ -12,10 +12,9 @@
 
 - 📫 How to reach me: [Twitter - @iamlardBendtner](https://twitter.com/iamlardBendtner), [Linkedin - @Darshan Aswath](https://www.linkedin.com/in/darshanaswath/)
 
+<hr>
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=xanf-code&show_icons=true&theme=dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xanf-code&layout=compact&theme=dark)](https://github.com/xanf-code)
+## 📊 Weekly development breakdown
 
 <!--START_SECTION:waka-->
 ```text
@@ -25,3 +24,13 @@ HTML         8 mins          ▓░░░░░░░░░░░░░░░░
 Markdown     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 ```
 <!--END_SECTION:waka-->
+
+<hr>
+
+## 📊 Flex ;)
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=xanf-code&show_icons=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xanf-code&layout=compact&theme=dark)](https://github.com/xanf-code)
+
+
