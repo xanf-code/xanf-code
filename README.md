@@ -27,7 +27,7 @@ Markdown     1 min           ░░░░░░░░░░░░░░░░░
 
 <hr>
 
-## 📊 language development breakdown ;)
+## 📊 language breakdown
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=xanf-code&show_icons=true&theme=dark)
 
