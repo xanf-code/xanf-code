@@ -25,8 +25,9 @@
  <img alt="Java" src="https://img.shields.io/badge/-Java-45b8d8?style=flat-square&logo=java&logoColor=white" />
  <img alt="C++" src="https://img.shields.io/badge/-C++-ff3e00?style=flat-square&logo=c++&logoColor=white" />
  <img alt="JS" src="https://img.shields.io/badge/-JavaScript-EC4A3F?style=flat-square&logo=javascript&logoColor=white" />
+<img alt="NEXTJS" src="https://img.shields.io/badge/-Next-EC4A3F?style=flat-square&logo=next&logoColor=white" />
  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
- <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+ <img alt="Nodejs" src="https://img.shields.io/badge/-Node-43853d?style=flat-square&logo=Node.js&logoColor=white" />
  <img alt="GoLang" src="https://img.shields.io/badge/-GoLang-45b8d8?style=flat-square&logo=go-lang&logoColor=white" />
  <img alt="Rollup" src="https://img.shields.io/badge/-Rollup-EC4A3F?style=flat-square&logo=rollup.js&logoColor=white" />
  <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-45b8d8?style=flat-square&logo=kotlin&logoColor=white" />
