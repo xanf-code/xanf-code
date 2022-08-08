@@ -6,9 +6,7 @@
 
 - 🎓 I’m an Open-Source enthusiast & pursuing my Bachelors in Computer Science & Engineering.
  
-- 🌱 I’m currently learning DevOps, SSL/TLS Encryption using GoLang and Docker!
-
-- 🔭 I’m currently working on [Insider Shibu](https://github.com/xanf-code/ShibuInsider) and ways to contribute to opensource projects
+- 🌱 I’m currently learning DevOps, AWS and Boto3!
 
 - 📫 How to reach me: [Twitter - @iamlardBendtner](https://twitter.com/iamlardBendtner), [Linkedin - @Darshan Aswath](https://www.linkedin.com/in/darshanaswath/)
 
