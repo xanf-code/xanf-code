@@ -1,14 +1,14 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=xanf-code&label=Views&color=blue&style=plastic" alt="xanf-code" /> </p>
 <h2>Hey, I'm Darshan Aswath! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="30"/> </h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xanf-code&label=Views&color=blue&style=plastic" alt="xanf-code" /> </p>
+I'm a 23 year-old full-stack Developer. I have a passion for creating fast loading, dynamic,
+and responsive sites using the latest technologies available.
 
-## About Me 🚀
+``
+{ name: Darshan, age: 23 }
+``
 
-- 🎓 I’m an Open-Source enthusiast & pursuing my Bachelors in Computer Science & Engineering.
- 
-- 🌱 I’m currently learning DevOps, AWS and Boto3!
-
-- 📫 How to reach me: [Twitter - @iamlardBendtner](https://twitter.com/iamlardBendtner), [Linkedin - @Darshan Aswath](https://www.linkedin.com/in/darshanaswath/)
+- 📫 How to reach me: [Twitter - @iamlardBendtner](https://twitter.com/darshanaswath__), [Linkedin - @Darshan Aswath](https://www.linkedin.com/in/darshanaswath/)
 
 <hr>
 
@@ -31,7 +31,7 @@
  <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-45b8d8?style=flat-square&logo=kotlin&logoColor=white" />
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" /> 
+  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-AWS-1a73e8?style=flat-square&logo=amazon&logoColor=white" /> 
   <img alt="GQL" src="https://img.shields.io/badge/-GraphQL-311C87?style=flat-square&logo=graphql&logoColor=white" />
    <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" /> 
