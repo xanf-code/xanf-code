@@ -1,11 +1,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xanf-code&label=Views&color=blue&style=plastic" alt="xanf-code" /> </p>
 <h2>Hey, I'm Darshan Aswath! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="30"/> </h2>
 
-I'm a 23 year-old full-stack Developer. I have a passion for creating fast loading, dynamic,
-and responsive sites using the latest technologies available.
-
 ``
-{ name: Darshan, age: 23 }
+{ name: Darshan, age: 24 }
 ``
 
 - 📫 How to reach me: [Twitter - @iamlardBendtner](https://twitter.com/darshanaswath__), [Linkedin - @Darshan Aswath](https://www.linkedin.com/in/darshanaswath/)
