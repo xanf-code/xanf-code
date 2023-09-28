@@ -13,25 +13,19 @@
 
 <p align="left">
    <img alt="Svelte" src="https://img.shields.io/badge/-Svelte-ff3e00?style=flat-square&logo=svelte&logoColor=white"/>
-  <img alt="Vue.js" src="https://img.shields.io/badge/-Vue-311C87?style=flat-square&logo=Vue.js&logoColor=white"/>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-EC4A3F?style=flat-square&logo=flutter&logoColor=white" />
- <img alt="Swift" src="https://img.shields.io/badge/-Swift-430098?style=flat-square&logo=swift&logoColor=white" />
  <img alt="Java" src="https://img.shields.io/badge/-Java-45b8d8?style=flat-square&logo=java&logoColor=white" />
- <img alt="C++" src="https://img.shields.io/badge/-C++-ff3e00?style=flat-square&logo=c++&logoColor=white" />
  <img alt="JS" src="https://img.shields.io/badge/-JavaScript-EC4A3F?style=flat-square&logo=javascript&logoColor=white" />
 <img alt="NEXTJS" src="https://img.shields.io/badge/-Next-EC4A3F?style=flat-square&logo=next&logoColor=white" />
  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
  <img alt="Nodejs" src="https://img.shields.io/badge/-Node-43853d?style=flat-square&logo=Node.js&logoColor=white" />
  <img alt="GoLang" src="https://img.shields.io/badge/-GoLang-45b8d8?style=flat-square&logo=go-lang&logoColor=white" />
- <img alt="Rollup" src="https://img.shields.io/badge/-Rollup-EC4A3F?style=flat-square&logo=rollup.js&logoColor=white" />
  <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-45b8d8?style=flat-square&logo=kotlin&logoColor=white" />
-  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-AWS-1a73e8?style=flat-square&logo=amazon&logoColor=white" /> 
   <img alt="GQL" src="https://img.shields.io/badge/-GraphQL-311C87?style=flat-square&logo=graphql&logoColor=white" />
    <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
-  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" /> 
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
 
